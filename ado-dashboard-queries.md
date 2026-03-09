@@ -5,7 +5,7 @@
 **Organization:** BECU  
 **Project:** HUB  
 **Extracted:** March 9, 2026  
-**Total Queries:** 34
+**Total Queries:** 35
 
 ---
 
@@ -36,12 +36,12 @@
 
 | # | Query Name | Query ID |
 |---|------------|----------|
-| 17 | Epic w Blank Assigned To | `1a9004a1-c4d5-4c11-a111-b401384af34b` |
+| 17 | Epic w Blank Assigned To | `d48be778-84e3-41f9-a3c6-a8ae8ef7dadd` |
 | 18 | Epic w Blank Description | `1a9004a1-c4d5-4c11-a111-b401384af34b` |
 | 19 | Epic w Blank Acceptance Criteria | `8591265f-3e99-4a8a-a3eb-e3dcbdc1bd8c` |
 | 20 | Epic w Blank Start Date | `11f3553b-4507-4c0c-b7c4-0cd04f9d3e8d` |
 | 21 | Epic w Blank Target Date | `1c9b14f8-39d9-41a5-b45d-bdd0a06121a4` |
-| 22 | Epic w Incorrect Iteration Path | *(not found in current extraction)* |
+| 22 | Epic w Incorrect Iteration Path | *(not captured - may share query with another widget)* |
 
 ---
 
@@ -93,6 +93,8 @@
 - **Source:** Dashboard widget configurations (JSON settings embedded in page HTML)
 - **Query ID Pattern:** Azure DevOps query IDs are 36-character UUIDs
 - **Dashboard URL:** `https://dev.azure.com/BECU/HUB/_dashboards/dashboard/00f7d3e1-7563-4c2d-91a8-67578d9c15c6`
+- **Extraction Date:** March 9, 2026
+- **Total Unique Query IDs:** 35 (one widget may share a query ID with another)
 
 ---
 
@@ -116,9 +118,10 @@
   "9bcca0b4-cd1f-4fc3-8d94-90d545a7fc92",
   "e45cf2f0-75bc-4e16-8a78-df0e47077e7c",
   "6c86b8cc-860e-4e37-82cb-d8203162ad25",
+  "d48be778-84e3-41f9-a3c6-a8ae8ef7dadd",
   "1a9004a1-c4d5-4c11-a111-b401384af34b",
-  "11f3553b-4507-4c0c-b7c4-0cd04f9d3e8d",
   "8591265f-3e99-4a8a-a3eb-e3dcbdc1bd8c",
+  "11f3553b-4507-4c0c-b7c4-0cd04f9d3e8d",
   "1c9b14f8-39d9-41a5-b45d-bdd0a06121a4",
   "3f7cb5eb-0895-429e-acb6-44770c3e4176",
   "fdd9cfdc-4ed6-45b7-baec-9a79499a9e78",
