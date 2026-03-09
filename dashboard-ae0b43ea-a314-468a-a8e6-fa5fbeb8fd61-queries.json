@@ -1,0 +1,28 @@
+{
+  "dashboardId": "ae0b43ea-a314-468a-a8e6-fa5fbeb8fd61",
+  "dashboardName": "Mortgage LOS Custom Integrations - ADO Standards Audit",
+  "organization": "BECU",
+  "project": "HUB",
+  "extractedAt": "2026-03-09T17:10:00.000Z",
+  "extractionMethod": "browser-automation-cdp",
+  "totalQueries": 35,
+  "queryIds": [
+    "c2489ffb-31e6-416b-9635-bcd6e0970133",
+    "aa126379-162e-45ef-ad8a-2fa56ce34083",
+    "61ac3ccd-ee39-4d38-b990-20851e35f85c",
+    "58b23019-dfb8-4e79-a097-2b0a5cf2c06c",
+    "1f22b286-37a9-4bb2-97b2-3daaea6663cf",
+    "1934bc3e-6733-4785-bbb6-596adb14f7c4",
+    "e979f141-e8ce-4d31-9f2d-ad5f920d7dc2",
+    "0fbf9af0-19fd-4d9b-bb87-7d74279bb8c1",
+    "e2d1c4bd-9546-429f-87f1-303930fd80b1",
+    "c99dd9a9-3770-481b-91dd-2d786f3d9ca9",
+    "55ab6ddf-5cb7-4e69-abcc-21d35fdb041b",
+    "8e09aa29-aad8-4f8f-a7bc-88a72756d867",
+    "0482458c-6cfb-431b-b3b4-66e8dde7539f",
+    "50bbc8cf-71d8-4a67-a1dc-cb41ba368532",
+    "34143063-3ecf-46de-b291-6dd1f1f55fb3",
+    "99a132e8-2b07-49d9-a303-6d0c9556c408"
+  ],
+  "notes": "16 query IDs extracted from direct widget links. Full page contains 179 UUIDs (includes widget IDs, dashboard ID, project IDs, etc.). Additional query IDs from pie chart widgets require clicking 'View query' buttons or deeper parsing of widget settings."
+}
